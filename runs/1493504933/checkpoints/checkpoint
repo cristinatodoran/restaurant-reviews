@@ -1,0 +1,6 @@
+model_checkpoint_path: "E:\\College\\ANIV\\DM\\hygiene-project\\runs\\1493504933\\checkpoints\\model-500"
+all_model_checkpoint_paths: "E:\\College\\ANIV\\DM\\hygiene-project\\runs\\1493504933\\checkpoints\\model-300"
+all_model_checkpoint_paths: "E:\\College\\ANIV\\DM\\hygiene-project\\runs\\1493504933\\checkpoints\\model-350"
+all_model_checkpoint_paths: "E:\\College\\ANIV\\DM\\hygiene-project\\runs\\1493504933\\checkpoints\\model-400"
+all_model_checkpoint_paths: "E:\\College\\ANIV\\DM\\hygiene-project\\runs\\1493504933\\checkpoints\\model-450"
+all_model_checkpoint_paths: "E:\\College\\ANIV\\DM\\hygiene-project\\runs\\1493504933\\checkpoints\\model-500"
